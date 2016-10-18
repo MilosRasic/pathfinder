@@ -50,3 +50,5 @@ Temporary Items
 .sass-cache
 .usage
 *.gz
+*.ini
+.htaccess
